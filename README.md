@@ -9,3 +9,5 @@
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@belyaev_dev](https://telegram.me/belyaev_dev)</code>
 <code>📫 [battler73@yandex.ru](mailto:battler73@yandex.ru)</code>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
